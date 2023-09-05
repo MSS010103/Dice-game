@@ -1,1 +1,1 @@
-# Dice-game
+# Dice-game is a game between two players, the one getting a higher number on their dice will win. Different set of random numbers are generated on the dices each time the user hits the refresh button.
